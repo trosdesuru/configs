@@ -1,16 +1,6 @@
-" **************************************************************************** "
-"                                                                              "
-"                                                         :::      ::::::::    "
-"    .myvimrc                                           :+:      :+:    :+:    "
-"                                                     +:+ +:+         +:+      "
-"    By: edhernan <edhernan@student.42barcel>       +#+  +:+       +#+         "
-"                                                 +#+#+#+#+#+   +#+            "
-"    Created: 2024/02/23 13:14:49 by edhernan          #+#    #+#              "
-"    Updated: 2024/04/11 09:06:56 by edhernan         ###   ########.fr        "
-"                                                                              "
-" **************************************************************************** "
 
 " SYNTAX HIGHLIGHTING: Activates syntax highlighting for code files.
+
 syntax on
 
 " FILE FORMAT AND ENCODING: Sets the file format to Unix and the encoding to UTF-8.
@@ -74,5 +64,4 @@ let g:terminal_ansi_colors = [
     \ '#689d6a', '#a89984', '#928374', '#fb4934', '#b8bb26', '#fabd2f',
     \ '#83a598', '#d3869b', '#8ec07c', '#ebdbb2',
     \ ]
-
 
